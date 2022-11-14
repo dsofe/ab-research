@@ -40,7 +40,7 @@ This is a collection of links to shared files.
 
 ---
 
-*Date last updated: 11/14/22.* &#x1F4BB;
+*Date last updated: 11/14/22.* &#xF1E2;
 <br>
 <br> 
 This repository was crafted with &hearts; by OFE Research.
