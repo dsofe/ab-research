@@ -1,4 +1,4 @@
-# AB & Research
+# AB & Research :
 
 ### General Resources
 
@@ -35,6 +35,6 @@ OFE Data Collection Brief
 *Date last updated: 11/14/22.* &#x1F4BB;
 <br>
 <br> 
-This repository was crafted with &hearts; by OFE Research
+This repository was crafted with &hearts; by OFE Research.
 
 
