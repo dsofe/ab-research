@@ -26,6 +26,9 @@ OFE Data Collection Brief
 <br>
 <br>
 
-<footer>
+*Date last updated: 11/14/22.* &#x1F4BB;
+<br>
+<br> 
+<p style = "color: #6495ED"> This repository was crafted with &hearts; by OFE Research</p>
 
 
