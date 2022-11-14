@@ -35,7 +35,7 @@ This is a collection of links to shared files.
 <br>
 <br>
 
-*Don't have access to a file? Would you like to see a file added or removed?* Contact [OFE Research](mailto:DaSmith@dcwp.nyc.gov)
+*Don't have access to a file? Looking to add or remove a file?* Contact [OFE Research](mailto:DaSmith@dcwp.nyc.gov)
 
 <br>
 <br>
