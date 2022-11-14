@@ -1,5 +1,3 @@
-# AB & Research's Resource Repository &#128200;
-
 This is a collection of links to shared files.
 
 <br>
