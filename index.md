@@ -1,8 +1,6 @@
-<br>
-
 This is a collection of links to shared files.
 
-<br>
+<br> 
 
 ## General items
 
