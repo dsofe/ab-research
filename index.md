@@ -4,8 +4,8 @@ This is a collection of links to shared files.
 
 ## General items
 
-- [Weekly meeting agenda](https://nyco365.sharepoint.com/:x:/s/OFE1/EUOe_4fcenJDrXe8hbCLspsBbRvaXFYaLXMY09UoFYIaHQ?e=4%3awdNxfJ)
-- [OFE Data Collection Brief (current draft)](https://nyco365.sharepoint.com/:w:/s/OFE1/EYIoZI3ARYJNhBO6V1BYJZsBa5aMUJmt-45Zoypk51y3cw?e=77mrh7)
+- [**Weekly meeting agenda**](https://nyco365.sharepoint.com/:x:/s/OFE1/EUOe_4fcenJDrXe8hbCLspsBbRvaXFYaLXMY09UoFYIaHQ?e=4%3awdNxfJ)
+- [**OFE Data Collection Brief (current draft)**](https://nyco365.sharepoint.com/:w:/s/OFE1/EYIoZI3ARYJNhBO6V1BYJZsBa5aMUJmt-45Zoypk51y3cw?e=77mrh7)
 
 <br>
 
