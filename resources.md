@@ -29,7 +29,7 @@ This is a repository of links to shared files.
 <br>
 
 *Don't have access to a file?*    
-Contact [Dan](DaSmith@dcwp.nyc.gov)
+Contact [Dan](mailto:DaSmith@dcwp.nyc.gov)
 
 
 <br>
