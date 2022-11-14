@@ -1,6 +1,6 @@
-# AB & Research :chart_with_upwards_trend:
+# AB & Research's Resource Repository :chart_with_upwards_trend:
 
-This is a repository of links to shared files.
+This is a collection of links to shared files.
 
 <br>
 
