@@ -16,7 +16,7 @@ This is a collection of links to shared files.
   - [Record of revisions](https://nyco365.sharepoint.com/:x:/r/sites/OFE1/_layouts/15/Doc.aspx?sourcedoc=%7B920CC065-A806-4A39-B0C3-38F61998ED54%7D&file=NYCFTP-survey-updates-research-team-20221011.xlsx&action=default&mobileredirect=true) (Excel)    
 - **Relational EFIN presentation (to General Counsel, *date TBD*)**
   - [Slides](https://nyco365.sharepoint.com/:p:/r/sites/OFE1/Shared%20Documents/Research/FTP/Tax%20Season%202023/dcwp-gc-presentation-relational-efin.pptx?d=wcc166f0512ce40b193dfeea42300fe4a&csf=1&web=1&e=XcZawC)
-  - [Agenda]() // Link here
+  - [Agenda](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/Shared%20Documents/Research/FTP/Tax%20Season%202023/dcwp-gc-presentation-agenda.docx?d=wef725bdf212b48f5af7f3fd95769ba62&csf=1&web=1&e=y9oGZ3)
 - **Relational EFIN presentation (to Kenny Minaya and Ben Packer, 11/16/22)**
   - [Slides](https://nyco365.sharepoint.com/:p:/r/sites/OFE1/Shared%20Documents/Research/FTP/Tax%20Season%202023/dcwp-leadership-presentation-relational-efin-20221116.pptx?d=wcc166f0512ce40b193dfeea42300fe4a&csf=1&web=1&e=5uWuLn)
   - [Agenda](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/Shared%20Documents/Research/FTP/Tax%20Season%202023/dcwp-leadership-presentation-agenda-20221116.docx?d=w81d44ac571154975b52bb005beef5dcd&csf=1&web=1&e=7CAt4d)
