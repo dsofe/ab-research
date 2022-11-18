@@ -7,10 +7,10 @@ This is a collection of links to shared files.
 - [**Weekly meeting agenda**](https://nyco365.sharepoint.com/:x:/s/OFE1/EUOe_4fcenJDrXe8hbCLspsBbRvaXFYaLXMY09UoFYIaHQ?e=4%3awdNxfJ)
 - [**OFE Data Collection Brief (current draft)**](https://nyco365.sharepoint.com/:w:/s/OFE1/EYIoZI3ARYJNhBO6V1BYJZsBa5aMUJmt-45Zoypk51y3cw?e=77mrh7)
 - [**Veteran status (background info)**](https://nyco365.sharepoint.com/:w:/s/OFE1/EXjEZJ1_D59BnPN-dS6UQF4BRxlfFodq8_NlsbrtHYuOGA?e=u02cAT)   
-- **Research Team presentation - TS '23 Kick Off event**
-  -[Clean version](https://nyco365.sharepoint.com/:p:/r/sites/OFE1/Shared%20Documents/Research/FTP/Tax%20Season%202023/ofe-research-presentation-ftp-ts23-FINAL.pptx?d=wdef13f066400449eb29ce4ee7d0c0987&csf=1&web=1&e=HgyTA5)   
-  -[Annotated version](https://nyco365.sharepoint.com/:p:/s/OFE1/ESq-6axVc_NBtoYH8BAiBD0BqLJY65NlOA2ZZU_x7LaQ2w?e=HBF2Xa)
-
+- **Research Team presentation - TS '23 Kick Off event**    
+  -[Clean version](https://nyco365.sharepoint.com/:p:/r/sites/OFE1/Shared%20Documents/Research/FTP/Tax%20Season%202023/ofe-research-presentation-ftp-ts23-FINAL.pptx?d=wdef13f066400449eb29ce4ee7d0c0987&csf=1&web=1&e=HgyTA5)      
+  -[Annotated version](https://nyco365.sharepoint.com/:p:/s/OFE1/ESq-6axVc_NBtoYH8BAiBD0BqLJY65NlOA2ZZU_x7LaQ2w?e=HBF2Xa)     
+    
 <br>
 
 ## Free Tax Prep
