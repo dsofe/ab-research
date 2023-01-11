@@ -1,9 +1,6 @@
 # Self-Employed Tax Prep Hub for Tax Season 2023
 
 <br>
-
-> last updated: 01/11/23
-
 <br>
 
 ### Overview of critical tasks and timelines
@@ -30,3 +27,8 @@
 |  - [Quarterly (draft)](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/Shared%20Documents/Research/SETP/Data%20collection/NYC%20SETP%20Client%20Survey%20-%20TS%2023.docx?d=w4da3a4c11d7f4acd93d18df8763ede1b&csf=1&web=1&e=0OK6gE)|                                                                                        |              |                 
 |  - [Mid-season (draft)](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/Shared%20Documents/Research/SETP/Data%20collection/NYC%20SETP%20Client%20Survey%20-%20TS%2023.docx?d=w4da3a4c11d7f4acd93d18df8763ede1b&csf=1&web=1&e=0OK6gE)|                                                                                       |              |                 
 |  - [Semi-annual (draft)](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/Shared%20Documents/Research/SETP/Data%20collection/NYC%20SETP%20Client%20Survey%20-%20TS%2023.docx?d=w4da3a4c11d7f4acd93d18df8763ede1b&csf=1&web=1&e=0OK6gE)|                                                                                      |              |                 
+
+
+
+
+> Last updated: 01/11/23
