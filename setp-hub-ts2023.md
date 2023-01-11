@@ -2,6 +2,10 @@
 
 <br>
 
+> last updated: 01/11/23
+
+<br>
+
 ### Overview of critical tasks and timelines
 
 | **TASK**                                                                                                                                                                                                                        | **STATUS**                                                                                | **DEADLINE** |
