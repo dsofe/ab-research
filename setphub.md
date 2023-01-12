@@ -18,7 +18,7 @@
 |                                                                                                                                                                                                                                          |                                                                                            |              |                                            
 | CONSULTATION & WORKSHOP SURVEYS                                                                                                                                                                                                          | [![shields badge](https://img.shields.io/badge/not%20started-red?style=for-the-badge)]()   | *TBD*        |               
 |  - [Tasks and timelines](https://nyco365.sharepoint.com/:w:/s/OFE1/EejA9VKWrIxFiQ0FHtMqFqgBaC0WcBfvO9cOQIczp5o_yg?e=52cCaq)                                                                                                              | [![shields badge](https://img.shields.io/badge/not%20started-red.svg)]()                   |              | 
-|  - [Data collection issues]                                                                                                                                                                                                              |  [![shields badge](https://img.shields.io/badge/not%20started-red.svg)]()                  |              |                
+|  - [Data collection issues]()                                                                                                                                                                                                              |  [![shields badge](https://img.shields.io/badge/not%20started-red.svg)]()                  |              |                
 |  - Consultation Survey (draft) - *link forthcoming*                                                                                                                                                                                      |  [![shields badge](https://img.shields.io/badge/not%20started-red.svg)]()                  |              |                
 |  - Workshop Survey (draft) - *link forthcoming*                                                                                                                                                                                          | [![shields badge](https://img.shields.io/badge/not%20started-red.svg)]()                   |              |
 |                                                                                                                                                                                                                                          |                                                                                            |              |                                            
@@ -31,6 +31,12 @@
 |  - Semi-annual (draft) - *link forthcoming*                                                                                                                                                                                              | [![shields badge](https://img.shields.io/badge/not%20started-red.svg)]()                   |              |                                                                                                            
 
 
+<br>
+<br>
+
+### Other files  
+
+- ["SETP Intro Deck - Data and Reports"](https://nyco365.sharepoint.com/:p:/s/OFE1/EVJdFCP2P-FClyjntBpMkHgBzzpegCQns6Jr62iOFwROWA?e=omO1gj)
 
 <br>
 <br>  
