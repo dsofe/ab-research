@@ -4,6 +4,8 @@
 
 ## Self-Employed Tax Prep Hub for Tax Season 2023
 
+<br> 
+
 ### Overview of critical tasks and timelines
 
 | **TASK**                                                                                                                                                                                                                                 | **STATUS**                                                                                 | **DEADLINE** |
