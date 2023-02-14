@@ -34,7 +34,7 @@ This is a collection of links to shared files.
 
 ## Self-Employed Tax Prep
 
-- [**SETP Tax Season 2023 Hub**](setp-hub-ts2023.md)
+- [**SETP Tax Season 2023 Hub**](setphub.md)
 - [**Program overview (incl. reports and reporting schedule)**](https://nyco365.sharepoint.com/:p:/r/sites/OFE1/_layouts/15/Doc.aspx?sourcedoc=%7B23145D52-3FF6-42E1-9728-E7B41A4C9078%7D&file=SETP%20Intro%20Deck%20-%20Data%20and%20Reports%20-%20updated.pptx&action=edit&mobileredirect=true)
 - [**Logic model**](https://nyco365.sharepoint.com/:w:/s/OFE1/EQpRVTWib05Gjy3Ws8HuAywBxdKsCzJ5QqSG7DKcvENtEA?e=H9ztYO)
 
