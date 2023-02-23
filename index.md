@@ -4,7 +4,8 @@ This is a collection of links to shared files.
 
 ## General items
 
-- [**Weekly meeting agenda**](https://nyco365.sharepoint.com/:x:/s/OFE1/EUOe_4fcenJDrXe8hbCLspsBbRvaXFYaLXMY09UoFYIaHQ?e=4%3awdNxfJ)
+- [**Weekly meeting agenda**](https://nyco365.sharepoint.com/:x:/s/OFE1/EUOe_4fcenJDrXe8hbCLspsBbRvaXFYaLXMY09UoFYIaHQ?e=4%3awdNxfJ)    
+- [**OFE Summary of data collection and reporting for Tax Season 2023 (current draft)**](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/Shared Documents/Research/SETP/Data collection/atsi-ts23-data-explainer-draft.docx?d=wd4477ab28feb4924b927d6f6a8fde917&csf=1&web=1&e=ohR1fJ)      
 - [**OFE Data Collection Brief (current draft)**](https://nyco365.sharepoint.com/:w:/s/OFE1/EYIoZI3ARYJNhBO6V1BYJZsBa5aMUJmt-45Zoypk51y3cw?e=77mrh7)  
 - **Research Team presentation - Data/Reporting webinar, Dec. 15** 
   - [Slides](https://nyco365.sharepoint.com/:p:/s/OFE1/EfcGfQ2ta0BItKcKEncAGHkB1s-Iy3pVDPCJge9kcndrww?e=9B6NYj) 
@@ -19,7 +20,7 @@ This is a collection of links to shared files.
 ## Free Tax Prep
 
 - **TS 2023 survey**
-  - [Final draft](https://nyco365.sharepoint.com/:w:/s/OFE1/EWR9918ZAidGiQaQHGo6zukBkdWuDDZxG5QqGN75LtJWQg?e=PCXh3F) (Word)
+  - [Final draft](https://nyco365.sharepoint.com/:w:/s/OFE1/EWR9918ZAidGiQaQHGo6zukBkdWuDDZxG5QqGN75LtJWQg?e=PCXh3F) (Word) // insert new link
   - [Record of revisions](https://nyco365.sharepoint.com/:x:/r/sites/OFE1/_layouts/15/Doc.aspx?sourcedoc=%7B920CC065-A806-4A39-B0C3-38F61998ED54%7D&file=NYCFTP-survey-updates-research-team-20221011.xlsx&action=default&mobileredirect=true) (Excel)    
 - **Relational EFIN presentation (to General Counsel, *date TBD*)**   
   - [Slides](https://nyco365.sharepoint.com/:p:/r/sites/OFE1/Shared%20Documents/Research/FTP/Tax%20Season%202023/dcwp-gc-presentation-relational-efin.pptx?d=wcc166f0512ce40b193dfeea42300fe4a&csf=1&web=1&e=XcZawC) (*draft*)
