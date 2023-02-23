@@ -5,7 +5,7 @@ This is a collection of links to shared files.
 ## General items
 
 - [**Weekly meeting agenda**](https://nyco365.sharepoint.com/:x:/s/OFE1/EUOe_4fcenJDrXe8hbCLspsBbRvaXFYaLXMY09UoFYIaHQ?e=4%3awdNxfJ)    
-- [**OFE Summary of data collection and reporting for Tax Season 2023 (current draft)**](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/Shared Documents/Research/SETP/Data collection/atsi-ts23-data-explainer-draft.docx?d=wd4477ab28feb4924b927d6f6a8fde917&csf=1&web=1&e=ohR1fJ)      
+- [**OFE Summary of data collection and reporting for Tax Season 2023 (current draft)**](https://nyco365.sharepoint.com/:w:/r/sites/OFE1/_layouts/15/Doc.aspx?sourcedoc=%7BD4477AB2-8FEB-4924-B927-D6F6A8FDE917%7D&file=atsi-ts23-data-explainer-draft.docx&action=default&mobileredirect=true)      
 - [**OFE Data Collection Brief (current draft)**](https://nyco365.sharepoint.com/:w:/s/OFE1/EYIoZI3ARYJNhBO6V1BYJZsBa5aMUJmt-45Zoypk51y3cw?e=77mrh7)  
 - **Research Team presentation - Data/Reporting webinar, Dec. 15** 
   - [Slides](https://nyco365.sharepoint.com/:p:/s/OFE1/EfcGfQ2ta0BItKcKEncAGHkB1s-Iy3pVDPCJge9kcndrww?e=9B6NYj) 
